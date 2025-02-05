@@ -104,3 +104,6 @@ Here’s what a successful pipeline run looks like:
 
 
 This pipeline is intentionally kept flexible and educational, providing a foundation for further enhancement. For instance, we can add stricter rules to block deployments when critical vulnerabilities are found or expand it with tools like Trivy for container scanning and KubeSec for Kubernetes security checks.
+
+
+https://medium.com/@0xdele/building-a-free-python-devsecops-pipeline-with-github-actions-and-owasp-zap-e016a1caac98
